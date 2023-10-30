@@ -12,6 +12,7 @@ Tech Stacks
 
 ➡PowerBI Desktop
 ➡Pivot Table
+
 ➡Power Query
 ➡Power Pivot
 ➡Data Modelling 
