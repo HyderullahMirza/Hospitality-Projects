@@ -1,11 +1,11 @@
 # Hospitality-Projects
  "AtliQ Grands Hospitality Data Analysis: Empowering strategic decisions through advanced analytics. Uncover insights, optimize strategies, and revive market presence. Leveraging PowerBI, Excel, and DAX for transformative results. #DataDrivenDecisions #HospitalityAnalytics 🏨✨"
 
-Problem Statement: 
+ # Problem Statement: 
 
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
-Task: 
+# Task: 
 I am a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
 1.	Create the metrics according to the metric list.
 2.	Create a dashboard according to the mock-up provided by stakeholders.
@@ -15,7 +15,7 @@ Link to Interactive Dashboard:[Link](https://app.powerbi.com/view?r=eyJrIjoiOTIz
 
 Linked In: [link](https://www.linkedin.com/in/hyderullah-baig-mirza)
 
-Tech Stacks
+# Tech Stacks
 
 ➡PowerBI Desktop
 
@@ -34,7 +34,7 @@ Tech Stacks
 ➡DAX Studio (for optimization)
 
 
-PowerBI Techniques Mastered
+# PowerBI Techniques Mastered
 
 
 ➡Calculated Columns
@@ -84,7 +84,7 @@ Business Terminology
 ➡WoW % - Week Over Week Change in Percentage
 
 
-Solution Implementation:
+# Solution Implementation:
 
 ➡Mockup and Approval: Create mockups, gain client approval, and incorporate feedback.
 
@@ -98,7 +98,7 @@ Solution Implementation:
 
 ➡Dashboard Design: Develop dashboards based on approved mockups, incorporating calculated measures.
 
-Project Insights:
+# Project Insights:
 
 ➡AS Per given Data Mumbai has generated highest Revenue of 225M and ADR 15.44K followed by Bangalore, Hyderabad, and Delhi for July 2022.
 
