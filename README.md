@@ -13,6 +13,8 @@ I am a data analyst who has been provided with sample data and a mock-up dashboa
 
 Link to Interactive Dashboard:[Link](https://app.powerbi.com/view?r=eyJrIjoiOTIzOTIyZmEtZTI2OC00NzFiLTgyNmMtYjFmNGFmYTQ1NDQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 
+Linked In: [link](www.linkedin.com/in/hyderullah-baig-mirza)
+
 Tech Stacks
 
 ➡PowerBI Desktop
